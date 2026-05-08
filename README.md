@@ -1,4 +1,12 @@
 # 🏛️ Data Analysis of Social Structure at Çatalhöyük
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
+![Random Forest](https://img.shields.io/badge/Model-Random%20Forest-darkgreen)
+![SVM](https://img.shields.io/badge/Model-SVM-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Research](https://img.shields.io/badge/Domain-Archaeology%20%2B%20ML-purple)
 
 A machine learning study testing social equality hypotheses at **Çatalhöyük** (7100–5950 BCE) — one of the world's earliest and most densely populated Neolithic settlements. Using archaeological, paleogenomic, and isotopic datasets, this project investigates whether this ancient community was truly egalitarian or whether hidden hierarchies shaped its social fabric.
 
